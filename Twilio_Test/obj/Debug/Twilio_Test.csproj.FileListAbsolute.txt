@@ -1,0 +1,17 @@
+C:\repo\Twilio_Test\Twilio_Test\bin\Debug\Twilio_Test.exe.config
+C:\repo\Twilio_Test\Twilio_Test\bin\Debug\Twilio_Test.exe
+C:\repo\Twilio_Test\Twilio_Test\bin\Debug\Twilio_Test.pdb
+C:\repo\Twilio_Test\Twilio_Test\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\repo\Twilio_Test\Twilio_Test\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\repo\Twilio_Test\Twilio_Test\bin\Debug\Newtonsoft.Json.dll
+C:\repo\Twilio_Test\Twilio_Test\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\repo\Twilio_Test\Twilio_Test\bin\Debug\Twilio.dll
+C:\repo\Twilio_Test\Twilio_Test\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\repo\Twilio_Test\Twilio_Test\bin\Debug\Newtonsoft.Json.xml
+C:\repo\Twilio_Test\Twilio_Test\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\repo\Twilio_Test\Twilio_Test\bin\Debug\Twilio.xml
+C:\repo\Twilio_Test\Twilio_Test\obj\Debug\Twilio_Test.csprojAssemblyReference.cache
+C:\repo\Twilio_Test\Twilio_Test\obj\Debug\Twilio_Test.csproj.CoreCompileInputs.cache
+C:\repo\Twilio_Test\Twilio_Test\obj\Debug\Twilio_Test.csproj.CopyComplete
+C:\repo\Twilio_Test\Twilio_Test\obj\Debug\Twilio_Test.exe
+C:\repo\Twilio_Test\Twilio_Test\obj\Debug\Twilio_Test.pdb
